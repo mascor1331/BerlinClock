@@ -25,6 +25,6 @@ Enter the color for quarter hour indicator. Default is R
 Enter the color for minutes indicator Default is Y
 
 Enter time e.g. 04/18/2017 12:00:00 PM, 11 am, 11:45 am, 5 pm, 11:59 PM
-11:29:51 AM
+<br>11:29:51 AM
 <br>Interpreted time in HH:mm:ss format is 11:29:51
 <br>Output: O RROO ROOO YYRYYOOOOOO YYYY 
