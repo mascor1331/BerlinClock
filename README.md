@@ -26,5 +26,5 @@ Enter the color for minutes indicator Default is Y
 
 Enter time e.g. 04/18/2017 12:00:00 PM, 11 am, 11:45 am, 5 pm, 11:59 PM
 11:29:51 AM
-Interpreted time in HH:mm:ss format is 11:29:51
+'''Interpreted time in HH:mm:ss format is 11:29:51
 Output: O RROO ROOO YYRYYOOOOOO YYYY 
