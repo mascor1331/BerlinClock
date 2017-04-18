@@ -1,0 +1,5 @@
+/home/mahesh/BerlinClock/BerlinClock/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/mahesh/BerlinClock/BerlinClock/bin/Release/BerlinClock.exe.mdb
+/home/mahesh/BerlinClock/BerlinClock/bin/Release/BerlinClock.exe
+/home/mahesh/BerlinClock/BerlinClock/obj/x86/Release/BerlinClock.exe
+/home/mahesh/BerlinClock/BerlinClock/obj/x86/Release/BerlinClock.exe.mdb
